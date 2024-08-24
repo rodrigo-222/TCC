@@ -17,7 +17,7 @@ Aplicativo que roda em segundo plano para coletar dados em tempo real para ruíd
                     Definição: Ruído com uma distribuição uniforme de energia em todas as frequências audíveis.
                     Características: Possui uma amplitude constante em todas as frequências, o que resulta em um som contínuo e uniforme.
 
-                2. Ruído Rosa: Ruído de 1/f
+                1. Ruído Rosa: Ruído de 1/f
                     Definição: Ruído com uma distribuição de energia que diminui proporcionalmente à frequência.
                     Características: Possui uma amplitude que diminui à medida que a frequência aumenta, resultando em um som mais suave e agradável.
 
